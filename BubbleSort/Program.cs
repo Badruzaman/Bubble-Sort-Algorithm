@@ -1,6 +1,6 @@
 ﻿
 int[] array = new int[] { 8, 5, 2, 9, 5, 6, 3 };
-//int[] result = BubbleSort(array); // comman way
+//int[] result = BubbleSort(array); // common way
 int[] result = BubbleSortBetterWay(array); // best way
 foreach (var item in result)
 {
